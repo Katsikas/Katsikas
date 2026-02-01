@@ -1,30 +1,41 @@
 # Hi, I'm Panagiotis 👋
 
-Frontend Developer & Web Designer focused on building clean, responsive, and user-friendly interfaces.
 
-## About Me
+Frontend Developer focused on building clean, responsive, and scalable user interfaces using **React** and modern JavaScript.
 
-I work primarily with **React** and **JavaScript**, and I have strong experience building websites and e-commerce solutions with **WordPress and WooCommerce**.  
-I enjoy translating designs into functional UI and working on frontend features that improve usability and performance.
+---
 
-Currently, I am expanding my portfolio with modern React projects that focus on clean architecture, state management, and real-world use cases.
+## 👨‍💻 About Me
 
-## Tech Stack
+- Strong focus on **React-based frontend development**
+- Experience building real-world projects with clean UI and reusable components
+- Comfortable working with APIs, state management, and responsive layouts
+- Interested in writing **maintainable, readable, and well-structured code**
 
-- React
-- JavaScript (ES6+)
-- HTML5, CSS3
-- WordPress, WooCommerce
-- Git & GitHub
+---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-- **React Product List with Filters**  
-  Product listing application with client-side filtering, search functionality, and REST API integration.
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **React Login Form with Validation**  
-  Login form with client-side validation and UX-focused error handling.
+---
 
-## Contact
+## 🚀 What I’m Working On
 
-- LinkedIn: https://www.linkedin.com/in/panagiotis-katsikadamas-ab1b6a258/
+- Uploading **React feature-based repositories** (forms, validation, filtering, UI patterns)
+- Improving component architecture and API handling
+- Strengthening my GitHub portfolio for frontend-focused roles
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn:** https://www.linkedin.com/in/panagiotis-katsikadamas
+
+---
+
+⭐️ Feel free to explore my repositories and follow my journey as a Frontend Developer.
