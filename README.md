@@ -1,30 +1,30 @@
 # Hi, I'm Panagiotis 👋
 
-Frontend Developer & Web Designer focused on building clean, responsive user interfaces.
+Frontend Developer & Web Designer focused on building clean, responsive, and user-friendly interfaces.
 
-## 🧑‍💻 About me
+## About Me
 
-- Working with **React** and **JavaScript**
-- Strong experience with **WordPress & WooCommerce**
-- Interested in modern frontend development and UI/UX
-- Currently building frontend-focused portfolio projects
+I work primarily with **React** and **JavaScript**, and I have strong experience building websites and e-commerce solutions with **WordPress and WooCommerce**.  
+I enjoy translating designs into functional UI and working on frontend features that improve usability and performance.
 
-## 🛠 Tech Stack
+Currently, I am expanding my portfolio with modern React projects that focus on clean architecture, state management, and real-world use cases.
+
+## Tech Stack
 
 - React
 - JavaScript (ES6+)
-- HTML, CSS
+- HTML5, CSS3
 - WordPress, WooCommerce
 - Git & GitHub
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **React Product List with Filters**  
-  Product listing app with client-side filtering and API integration.
+  Product listing application with client-side filtering, search functionality, and REST API integration.
 
 - **React Login Form with Validation**  
-  Login form with validation and UX-focused error handling.
+  Login form with client-side validation and UX-focused error handling.
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/panagiotis-katsikadamas-ab1b6a258/
