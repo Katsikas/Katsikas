@@ -3,7 +3,6 @@
 
 Frontend Developer focused on building clean, responsive, and scalable user interfaces using **React** and modern JavaScript.
 
----
 
 ## 👨‍💻 About Me
 
@@ -12,7 +11,7 @@ Frontend Developer focused on building clean, responsive, and scalable user inte
 - Comfortable working with APIs, state management, and responsive layouts
 - Interested in writing **maintainable, readable, and well-structured code**
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -22,7 +21,7 @@ Frontend Developer focused on building clean, responsive, and scalable user inte
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+
 
 ## 🚀 What I’m Working On
 
@@ -30,7 +29,6 @@ Frontend Developer focused on building clean, responsive, and scalable user inte
 - Improving component architecture and API handling
 - Strengthening my GitHub portfolio for frontend-focused roles
 
----
 
 ## 📫 Get in Touch
 
