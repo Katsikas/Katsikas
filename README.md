@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Panagiotis 👋
 
-<!--
-**Katsikas/Katsikas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer & Web Designer focused on building clean, responsive user interfaces.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working with **React** and **JavaScript**
+- Strong experience with **WordPress & WooCommerce**
+- Interested in modern frontend development and UI/UX
+- Currently building frontend-focused portfolio projects
+
+## 🛠 Tech Stack
+
+- React
+- JavaScript (ES6+)
+- HTML, CSS
+- WordPress, WooCommerce
+- Git & GitHub
+
+## 📌 Featured Projects
+
+- **React Product List with Filters**  
+  Product listing app with client-side filtering and API integration.
+
+- **React Login Form with Validation**  
+  Login form with validation and UX-focused error handling.
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/panagiotis-katsikadamas-ab1b6a258/
