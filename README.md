@@ -23,13 +23,6 @@ Frontend Developer focused on building clean, responsive, and scalable user inte
 
 
 
-##  What I’m Working On
-
-- Uploading **React feature-based repositories** (forms, validation, filtering, UI patterns)
-- Improving component architecture and API handling
-- Strengthening my GitHub portfolio for frontend-focused roles
-
-
 ##  Get in Touch
 
 - **LinkedIn:** https://www.linkedin.com/in/panagiotis-katsikadamas
