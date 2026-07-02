@@ -1,12 +1,13 @@
 # Hi, I'm Panagiotis 
 
 
-Frontend Developer focused on building clean, responsive, and scalable user interfaces using **React** and modern JavaScript.
+Full Stack Developer focused on building apps using **React** and **Django**.
 
 
 ##  About Me
 
 - Strong focus on **React-based frontend development**
+- Use of backend frameworks **Express.js** and **Django** 
 - Experience building real-world projects with clean UI and reusable components
 - Comfortable working with APIs, state management, and responsive layouts
 - Interested in writing **maintainable, readable, and well-structured code**
