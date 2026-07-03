@@ -31,4 +31,4 @@ Full Stack Developer focused on building apps using **React** and **Django**.
 
 ---
 
- Feel free to explore my repositories and follow my journey as a Frontend Developer.
+ Feel free to explore my repositories and follow my journey as a Developer.
